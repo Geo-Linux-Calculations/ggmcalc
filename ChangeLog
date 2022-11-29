@@ -1,0 +1,14 @@
+2018-05-04 Siamak Moazezi
+Ver. 1.0.2
+- The source and data files were moved to "src" directory.
+- Some subroutine/function descriptions were revised.
+- "README" file was revised.
+
+2017-07-06 Siamak Moazezi
+Ver. 1.0.1
+- Thanks to Tyler C. Sutterley, a NASA Postdoctoral Fellow, a mistake was found in the definition of the linear eccentricity in "gamma_mod.f" file.
+- Fixed the bug.
+
+2012-04-14 Siamak Moazezi
+Ver. 1.0.0
+- The first public release of GGMCalc.
